@@ -1,13 +1,14 @@
 # CV_Projects
 This is a Repository where i link to some Data Science Projects that I have done.
 
-Data Science:
-+ Comparison of CNN-VAE and LSTM-VAE for Anomaly Detection, subsequent synthesizing of data and employing Cassandra DB to depoy a continuous Anomaly Detection with Azure Managed Online Deployment (2024)
++ Probabilistic Forecasting of * using a Mixture Gaussian Processes Model, parametrized by a DNN. (2024) (Unfinished)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
-+ Probabilistic Forecasting of * using a Mixture Gaussian Processes Model, parametrized by a DNN. (2024)
-    - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
++ Advanced RAG Web-App with Azure AI, Langchain, Huggingface, OLLama and streamlit. (2024)
+    - https://github.com/JannisEbling/Advanced_RAG_Web-Application
 + End-to-End Machine Learning Project for Heart Failure Classification with MLFlow and AWS Deployment. (2024)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
++ End-to-End Object Detection Finetune Project with Huggingface and Web-Application. (2024)
+    - https://github.com/JannisEbling/FineTuned_Object_Detection
 + Anomaly Detection of Machine Sensors in IoT Industry 4.0 Scenario with Web-App. (2023)
     - https://github.com/JannisEbling/trueoutlier
 + Unsupervised Customer Segmentation. (2023)
@@ -21,11 +22,4 @@ Data Science:
 + Customer Churn Classification using an Ensemble Classifier. (2021)
     - https://github.com/JannisEbling/Customer_Churn_Classification
 
-Gen AI:
-+ Advanced RAG Web-App with Azure AI, Langchain, Huggingface, OLLama and streamlit. (2024)
-    - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ Paper Summerization and Exploration with Azure Document Intelligence, Langchain and streamlit. (2024)
-    - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
-+ End-to-End Development of Fine Tuned Covid Utencils Object Detection with Huggingface and Deployment as a Web-Application. (2024)
-    - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
 
