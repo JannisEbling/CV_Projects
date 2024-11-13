@@ -1,5 +1,5 @@
 # CV_Projects
-This is a Repository where i link to some Data Science Projects that I have done.
+This is a Repository where i link to some of my Data Science and Gen AI Projects.
 
 + Probabilistic Forecasting of * using a Mixture Gaussian Processes Model, parametrized by a DNN. (2024) (Unfinished)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
