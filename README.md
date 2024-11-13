@@ -1,11 +1,15 @@
 # CV_Projects
-This is a Repository where i link to some of my Data Science and Gen AI Projects.
+This is a Repository where i link to some of my Data Science, Gen AI Projects and Rebuild Projects of interesting Deep Learning architectures.
 
 Data Science Projects
 + Probabilistic Forecasting of * using a Mixture Gaussian Processes Model, parametrized by a DNN. (2024) (Unfinished)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
 + End-to-End Machine Learning Project for Heart Failure Classification with MLFlow and AWS Deployment. (2024)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
++ MLOPS Library for Regression and Classification, employing a Registry, MLFlow and some basic ml and deep learning models. (2023)
+    - https://github.com/JannisEbling/trueoutlier
++ PHM Challange 2023 Probabilistic Vibration Analysis. (2023)
+    - https://github.com/JannisEbling/trueoutlier
 + Anomaly Detection of Machine Sensors in IoT Industry 4.0 Scenario with Web-App. (2023)
     - https://github.com/JannisEbling/trueoutlier
 + Unsupervised Customer Segmentation and extensive Exploratory Data Analysis. (2023)
@@ -30,3 +34,15 @@ Gen AI Projects
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
 + End-to-End Object Detection Finetune Project with Huggingface and Web-Application. (2024)
     - https://github.com/JannisEbling/FineTuned_Object_Detection
+
+
+Building Deep Learning Architectures
++ Contains a number of specifc architectures that i build for learning purposes:
+    - U-shaped CNN
+    - Double Layerd LSTM
+    - Autoencoder for compression
+    - Variational Autoencode for data synthesis
+    - Physics Informed ANN
+    - Adversial Trained Network
+    - Deep O-Net
+    - Fourier Neural Operator
