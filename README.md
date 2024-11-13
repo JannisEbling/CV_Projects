@@ -6,9 +6,9 @@ Data Science Projects
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
 + End-to-End Machine Learning Project for Heart Failure Classification with MLFlow and AWS Deployment. (2024)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
-+ MLOPS Library for Regression and Classification, employing a Registry, MLFlow and some basic ml and deep learning models. (2023)
++ MLOPS Library for Regression and Classification, employing a Registry, MLFlow and some basic ml and deep learning models. (2023) (Unfinished)
     - https://github.com/JannisEbling/trueoutlier
-+ PHM Challange 2023 Probabilistic Vibration Analysis. (2023)
++ PHM Challange 2023 Probabilistic Vibration Analysis. (2023) (Unfinished)
     - https://github.com/JannisEbling/trueoutlier
 + Anomaly Detection of Machine Sensors in IoT Industry 4.0 Scenario with Web-App. (2023)
     - https://github.com/JannisEbling/trueoutlier
@@ -24,20 +24,20 @@ Data Science Projects
     - https://github.com/JannisEbling/Customer_Churn_Classification
  
 Gen AI Projects
-+ Advanced RAG Web-App showcasing multi agent and advanced RAG techniques with Azure AI, Langgraph, Huggingface, Groq and streamlit. (2024)
++ Advanced RAG Web-App showcasing multi agent and advanced RAG techniques with Azure AI, Langgraph, Huggingface, Groq and streamlit. (2024) (Unfinished)
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ Local Code Assistant with OLLama. (2024)
++ Local Code Assistant with OLLama. (2024) (Unfinished)
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ Fine Tune a LLM for summerization with Huggingface and transformer. (2024)
++ Fine Tune a LLM for summerization with Huggingface and transformer. (2024) (Unfinished)
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ Multi Agent Generative AI with AWS. (2024)
++ Multi Agent Generative AI with AWS. (2024) (Unfinished)
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ End-to-End Object Detection Finetune Project with Huggingface and Web-Application. (2024)
++ End-to-End Object Detection Finetune Project with Huggingface and Web-Application. (2024) (Unfinished)
     - https://github.com/JannisEbling/FineTuned_Object_Detection
 
 
 Building Deep Learning Architectures
-+ Contains a number of specifc architectures that i build for learning purposes:
++ Contains a number of specifc architectures that i build for learning purposes: (Unfinished)
     - U-shaped CNN
     - Double Layerd LSTM
     - Autoencoder for compression
