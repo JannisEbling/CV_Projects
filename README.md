@@ -1,5 +1,5 @@
 # CV_Projects
-This is a Repository where i link to some of my Data Science, Gen AI Projects and Rebuild Projects of interesting Deep Learning architectures.
+This is a Repository where i link to some of my Data Science, Gen AI and Deep Learning architecture Projects.
 
 Data Science Projects
 + Probabilistic Forecasting of * using a Mixture Gaussian Processes Model, parametrized by a DNN. (2024) (Unfinished)
@@ -37,7 +37,7 @@ Gen AI Projects
 
 
 Building Deep Learning Architectures
-+ Contains a number of specifc architectures that i build for learning purposes: (Unfinished)
++ Contains a number of Deep Learning architectures that i build for learning purposes: (Unfinished)
     - U-shaped CNN
     - Double Layerd LSTM
     - Autoencoder for compression
