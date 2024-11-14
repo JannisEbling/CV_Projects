@@ -34,7 +34,7 @@ Gen AI Projects
 
 
 Building Deep Learning Architectures
-+ Contains a number of Deep Learning architectures that i build for learning purposes: (Unfinished)
++ Contains a number of Deep Learning architectures that i build for learning purposes https://github.com/JannisEbling/Research_Projects:
     - U-shaped CNN
     - Double Layerd LSTM
     - Autoencoder for compression
