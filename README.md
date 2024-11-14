@@ -10,6 +10,8 @@ Data Science Projects
     - https://github.com/JannisEbling/MLOps_Library
 + PHM Challange 2023 Probabilistic Gearbox Degradation Determination with Vibration Analysis. (2023)
     - https://github.com/JannisEbling/PHM_Challenge2023_Gears_Vibration_Analysis
++ Customer Churn Classification and Salary Regression with ANN with FineTuning. (2023)
+    - https://github.com/JannisEbling/Churn_Classification_ANN
 + Unsupervised Customer Segmentation and extensive Exploratory Data Analysis. (2023)
     - https://github.com/JannisEbling/Unsupervised_Customer_Segmentation
 + ECG Time-Series Classification using a Neural Network (Tensorflow/Keras) with extensive Hyperparameter Search. (2022)
@@ -18,15 +20,14 @@ Data Science Projects
     - https://github.com/JannisEbling/Hotel_Reservation_Classification
 + Covid Fatality Classification comparing several classification models and tackling Class imbalanced. (2021)
     - https://github.com/JannisEbling/Covid_Fatality_Prediction
-+ Customer Churn Classification using an Ensemble Classifier. (2021)
-    - https://github.com/JannisEbling/Customer_Churn_Classification
+
  
 Gen AI Projects
 + Advanced RAG Web-App showcasing multi agent and advanced RAG techniques with Azure AI, Langgraph, Huggingface, Groq and streamlit. (2024)
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
 + Local Code Assistant with OLLama. (2024)
     - https://github.com/JannisEbling/Local_Code_Assitant
-+ Fine Tune a LLM for summerization with Huggingface and transformer. (2024) (Unfinished)
++ Fine Tune a LLM for summerization with Huggingface and transformer. (2024)
     - https://github.com/JannisEbling/Fine_Tuned_Summarizer
 + End-to-End Object Detection Finetune Project with Huggingface and Web-Application. (2024)
     - https://github.com/JannisEbling/FineTuned_Object_Detection
