@@ -24,12 +24,10 @@ Data Science Projects
 Gen AI Projects
 + Advanced RAG Web-App showcasing multi agent and advanced RAG techniques with Azure AI, Langgraph, Huggingface, Groq and streamlit. (2024)
     - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ Local Code Assistant with OLLama. (2024) (Unfinished)
-    - https://github.com/JannisEbling/Advanced_RAG_Web-Application
++ Local Code Assistant with OLLama. (2024)
+    - https://github.com/JannisEbling/Local_Code_Assitant
 + Fine Tune a LLM for summerization with Huggingface and transformer. (2024) (Unfinished)
-    - https://github.com/JannisEbling/Advanced_RAG_Web-Application
-+ Multi Agent Generative AI with AWS. (2024) (Unfinished)
-    - https://github.com/JannisEbling/Advanced_RAG_Web-Application
+    - https://github.com/JannisEbling/Fine_Tuned_Summarizer
 + End-to-End Object Detection Finetune Project with Huggingface and Web-Application. (2024)
     - https://github.com/JannisEbling/FineTuned_Object_Detection
 
