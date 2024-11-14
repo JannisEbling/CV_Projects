@@ -42,8 +42,5 @@ Building Deep Learning Architectures
     - Variational Autoencode for data synthesis
     - Physics Informed ANN
     - Adversial Trained Network
-    - Deep O-Net
-    - Fourier Neural Operator
     - Bayesian Neural Network
-    - Markov Random Field
-    - Factor Grpahs
+
