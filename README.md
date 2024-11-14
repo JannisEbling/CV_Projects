@@ -10,8 +10,6 @@ Data Science Projects
     - https://github.com/JannisEbling/trueoutlier
 + PHM Challange 2023 Probabilistic Vibration Analysis. (2023) (Unfinished)
     - https://github.com/JannisEbling/trueoutlier
-+ Anomaly Detection of Machine Sensors in IoT Industry 4.0 Scenario with Web-App. (2023)
-    - https://github.com/JannisEbling/trueoutlier
 + Unsupervised Customer Segmentation and extensive Exploratory Data Analysis. (2023)
     - https://github.com/JannisEbling/Unsupervised_Customer_Segmentation
 + ECG Time-Series Classification using a Neural Network (Tensorflow/Keras) with extensive Hyperparameter Search. (2022)
