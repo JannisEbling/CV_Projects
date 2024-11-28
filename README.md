@@ -2,7 +2,7 @@
 This is a Repository where i link to some of my Data Science, Gen AI and Deep Learning architecture Projects.
 
 Data Science Projects
-+ Probabilistic Forecasting of * using a Mixture Gaussian Processes Model, parametrized by a DNN. (2024) (Unfinished)
++ End-to-End Credit Card Fraud Detection with Decision Tree ensemble models (2024)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
 + End-to-End Machine Learning Project for Heart Failure Classification with MLFlow and AWS Deployment. (2024)
     - https://github.com/JannisEbling/End-to-End-MLFlow-Machine-Learning-Project
