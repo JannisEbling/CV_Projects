@@ -37,6 +37,7 @@ Building Deep Learning Architectures
 + Contains a number of Deep Learning architectures that i build for learning purposes
 + https://github.com/JannisEbling/Research_Projects:
     - U-shaped CNN
+    - Mixture of Gaussian Processes, parameterized by an NN
     - Double Layerd LSTM
     - Autoencoder for compression
     - Variational Autoencode for data synthesis
